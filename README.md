@@ -61,7 +61,7 @@ Tech- stacks used:
  Download the credential for Google Vision API.
  Copy and paste the files at thr required position.
 
- ```
+ 
  
  Run Code:
  
